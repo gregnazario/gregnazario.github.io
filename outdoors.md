@@ -1,4 +1,4 @@
-## *12/14/2019* Training for a half marathon
+## Training for a half marathon
 
 In 2014, I did the Seattle half with a blazing for me 1:45:37 time.  The last half I ran I ended up injuring my knee pretty badly with chronic problems.  I'm looking forward to running another half marathon in 2020 and training has become an issue again.  I highly don't suggest anyone else trains for only 2 months prior to a half like I did, but I did have the following insights.
 

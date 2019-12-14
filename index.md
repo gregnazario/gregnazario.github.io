@@ -1,11 +1,11 @@
-## Training for a half marathon
+## [Outdoors blog](https://blog.gnazar.io/outdoors)
+My blog about the outdoors, and the quintessential pacific northwest lifestyle.  Information around my love of the outdoors and fitness associated with running, skiing, hiking, cycling, rock climbing and others.
 
-In 2014, I did the Seattle half with a blazing for me 1:45:37 time.  The last half I ran I ended up injuring my knee pretty badly with chronic problems.  I'm looking forward to running another half marathon in 2020 and training has become an issue again.  I highly don't suggest anyone else trains for only 2 months prior to a half like I did, but I did have the following insights.
+## [Tech blog](https://blog.gnazar.io/tech)
+Some of my personal opinions about tech, and how for software engineers to become better engineers and better communicators.
 
-1. **Build up the miles week over week** - I ran on the treadmill inside away from the Seattle rain usually 4 days a week, which let me build up from 5 miles a week to, 20 miles on the treadmill a week.  This helped build a regular pace and the stamina for running.
-2. **Spend one day a week on distance** - By building up the total miles week over week, the total stamina is built up, but you still need to actually get to race distance.  I spent this time running around my local lake (Seattle's lake union), which helped build up my distance until I was ready for the race.
-3. **Rest days are important** - Starting from nothing and running up to 5 days in a row really took a toll on my legs.  Especially when starting training, taking a day off between runs or between having multiple run days in a row lets you recover, and spend some time doing something else than running.
+## About me
+I'm a software engineer from Pennsylvania, who upon moving to Seattle decided to take upon the challenge of being a more outdoorsy, more active life and it stuck.  More information about me can be found at my main website [gnazar.io](https://gnazar.io)
 
-## Blog topic selection
-
-As per my twitter poll, this blog is going to be about outdoor adventures, workouts, and traveling.  This especially includes my three main sports of rock climbing, running, and skiing.  
+### Note
+I'm working on figuring out how best to organize this blog at this point, so it may move around a bit.
