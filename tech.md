@@ -1,4 +1,4 @@
- ## Learning how to communicate
+## Learning how to communicate
 
 When interviewing candidates for a job, the number one skill that you can't read on a resume is their communication skills.  Communication skills can make or break a team, and if it's bad enough, it can cause people to be miserable.  Communication isn't a skill well taught in college from coding classes, but it can be learned by all of us through practice.
 
@@ -27,6 +27,6 @@ Keeping these questions in mind, I abide by the rule less is more. A few bullet 
 
 #### Memorize ideas and points not words
 
-Depending on the audience, requires different levels of preparation.  If you're a CEO or a president giving a speech to a large group of people, where the way you say something matters, then every word should be planned.  However, in most smaller venues, it's better to keep a flow of what are the *ideas* you want to convey, and *how* you structure your speech to convey it.
+Depending on the audience, requires different levels of preparation.  If you're a CEO or a president giving a speech to a large group of people, where the way you say something matters, then every word should be planned.  However, in most smaller venues, it's better to keep a flow of what are the **ideas** you want to convey, and **how** you structure your speech to convey it.
 
-Generally, when I give a speech, I will memorize transitions between topics and sections, as well as metrics and quotes I want to give.  By keeping the speech around *ideas* rather than words, it allows the speech to be flexible, when there is an interruption.  Maybe an attendee wants to ask a question, or you sneeze and you lose what was the last word you said.  With memorizing what *ideas* you want to convey, it brings you into the realm of unprepared informal speeches.  These unprepared speeches will make you loosen up and it will be more akin to having a conversation with your audience.  This will change the conversation from talking *at* them, and more about talking *with* them, keeping your audience engaged.
+Generally, when I give a speech, I will memorize transitions between topics and sections, as well as metrics and quotes I want to give.  By keeping the speech around **ideas** rather than words, it allows the speech to be flexible, when there is an interruption.  Maybe an attendee wants to ask a question, or you sneeze and you lose what was the last word you said.  With memorizing what *ideas* you want to convey, it brings you into the realm of unprepared informal speeches.  These unprepared speeches will make you loosen up and it will be more akin to having a conversation with your audience.  This will change the conversation from talking **at** them, and more about talking **with** them, keeping your audience engaged.
