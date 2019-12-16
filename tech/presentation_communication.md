@@ -1,4 +1,4 @@
-## Learning how to communicate
+## Learning How to Communicate: Part 1
 
 When interviewing candidates for a job, the number one skill that you can't read on a resume is their communication skills.  Communication skills can make or break a team, and if it's bad enough, it can cause people to be miserable.  Communication isn't a skill well taught in college from coding classes, but it can be learned by all of us through practice.
 
