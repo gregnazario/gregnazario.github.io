@@ -10,4 +10,6 @@ I'm a software engineer from Pennsylvania, who upon moving to Seattle decided to
 
 ## Tech and Careers
 
-### [Learning how to communicate: Part 1](https://blog.gnazar.io/tech/presentation_communication)
+### [Presentations (Learning how to communicate: Part 1)](https://blog.gnazar.io/tech/communication/presentations)
+
+### [Technical Writing (Learning how to communicate: Part 2)](https://blog.gnazar.io/tech/communication/technical_writing)
